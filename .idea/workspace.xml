@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b38a770-f1db-4b71-a032-f0f221fe3be8" name="Default Changelist" comment="2">
+    <list default="true" id="3b38a770-f1db-4b71-a032-f0f221fe3be8" name="Default Changelist" comment="3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599144385613</updated>
       <workItem from="1599144386660" duration="1730000" />
-      <workItem from="1601364385975" duration="2476000" />
+      <workItem from="1601364385975" duration="2658000" />
+      <workItem from="1601367102712" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1601365699996</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601366589758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <created>1601366887601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601366887601</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +84,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="417" key="Github.ShareDialog" timestamp="1601365409745">
@@ -86,9 +96,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601365415355" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601366591583">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601366888913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601366591583" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601366888913" />
   </component>
 </project>
